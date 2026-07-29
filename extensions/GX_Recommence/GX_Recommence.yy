@@ -19,7 +19,7 @@
   "gradleinject":null,
   "hasConvertedCodeInjection":true,
   "helpfile":"",
-  "HTML5CodeInjection":"<GM_HTML5_BodyEnd>\r\n   <!-- GX Recommence Injection -->\r\n   <!-- By TabularElf -->\r\n    <script>\r\n      function pause() {\r\n         if (!canvasElement.classList.contains(\"active\")) {\r\n             return;\r\n        }\r\n\r\n        GM_pause();\r\n        pauseMenu.hidden = true;\r\n        requestAnimationFrame(() => {GM_unpause();});\r\n      }\r\n    </script>\r\n</GM_HTML5_BodyEnd>",
+  "HTML5CodeInjection":"<GM_HTML5_BodyEnd>\r\n   <!-- GX Recommence Injection -->\r\n   <!-- By TabularElf -->\r\n   <!-- https://github.com/tabularelf/GX-Extensions -->\r\n    <script>\r\n      function pause() {\r\n         if (!canvasElement.classList.contains(\"active\")) {\r\n             return;\r\n        }\r\n\r\n        GM_pause();\r\n        pauseMenu.hidden = true;\r\n        requestAnimationFrame(() => {GM_unpause();});\r\n      }\r\n    </script>\r\n</GM_HTML5_BodyEnd>",
   "html5Props":true,
   "IncludedResources":[],
   "installdir":"",

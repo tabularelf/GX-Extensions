@@ -19,7 +19,7 @@
   "gradleinject":null,
   "hasConvertedCodeInjection":true,
   "helpfile":"",
-  "HTML5CodeInjection":"<GM_HTML5_PostStyle>\r\n     <!-- GX Cut Injection -->\r\n     <style>\r\n\t\t  canvas.emscripten {\r\n\t\t\ttransition: opacity 0s ease-in;\r\n\t\t\t-webkit-transition: opacity 0s ease-in;\r\n\t\t  }\r\n\t \r\n          canvas.active {\r\n              animation-duration: 0.01s !important;\r\n\t\t\t  opacity: 1 !important;\r\n          }\r\n\r\n\t  @keyframes fadeIn {\r\n        0% {\r\n          opacity: 0 !important;\r\n        }\r\n\r\n        100% {\r\n          opacity: 1 !important;\r\n        }\r\n      }\r\n     </style>\r\n</GM_HTML5_PostStyle>",
+  "HTML5CodeInjection":"<GM_HTML5_PostStyle>\r\n     <!-- GX Cut Injection -->\r\n     <!-- By TabularElf -->\r\n     <!-- https://github.com/tabularelf/GX-Extensions -->\r\n     <style>\r\n\t\t  canvas.emscripten {\r\n\t\t\ttransition: opacity 0s ease-in;\r\n\t\t\t-webkit-transition: opacity 0s ease-in;\r\n\t\t  }\r\n\t \r\n          canvas.active {\r\n              animation-duration: 0.01s !important;\r\n\t\t\t  opacity: 1 !important;\r\n          }\r\n\r\n\t  @keyframes fadeIn {\r\n        0% {\r\n          opacity: 0 !important;\r\n        }\r\n\r\n        100% {\r\n          opacity: 1 !important;\r\n        }\r\n      }\r\n     </style>\r\n</GM_HTML5_PostStyle>",
   "html5Props":true,
   "IncludedResources":[],
   "installdir":"",
