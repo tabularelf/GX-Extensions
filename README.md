@@ -3,6 +3,12 @@ A collection of GX Extensions for GameMaker GX.Games target.
 
 These extensions have been tested thoroughly to ensure that they work on Chromium-based browsers and Firefox.
 
+# How to install
+
+1. Head over to [releases](https://github.com/tabularelf/GX-Extensions/releases) and download the desired extensions.
+2. In GameMaker, goto Tools -> Import Local Package and import.
+3. Follow the relevant additional steps per extension, if any.
+
 # Extensions
 
 ## GX Cut
@@ -20,9 +26,3 @@ GX Recommence is a simple pause removal extension. GX.Games target by default ap
 ### Additional install steps
 
 None. This extension is purely plug-n-play!
-
-# How to install
-
-1. Head over to [releases](https://github.com/tabularelf/GX-Extensions/releases) and download the desired extensions.
-2. In GameMaker, goto Tools -> Import Local Package and import.
-3. Follow the relevant additional steps per extension, if any.
