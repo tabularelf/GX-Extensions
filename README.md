@@ -6,6 +6,7 @@ These extensions have been tested thoroughly to ensure that they work on Chromiu
 ## NOTE: THIS LIBRARY IS MADE IN MY SPARE TIME
 A friendly reminder that all of my work is completely free and that you should absolutely [donate](https://ko-fi.com/tabularelf) if you want to see continued support from me.
 
+YYG if you see this and wish to add it to GX.Games, please do mention where inspiration has come from. Remember those who carry and uplift the engine.
 
 # How to install
 
