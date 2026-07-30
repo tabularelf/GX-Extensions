@@ -3,6 +3,8 @@ A collection of GX Extensions for GameMaker GX.Games target.
 
 These extensions have been tested thoroughly to ensure that they work on Chromium-based browsers and Firefox.
 
+Looking for loading screen modifications? See GX Style [here](https://github.com/tabularelf/GX-Style/).
+
 ## NOTE: THIS LIBRARY IS MADE IN MY SPARE TIME
 A friendly reminder that all of my work is completely free, and that you should absolutely [donate](https://ko-fi.com/tabularelf) if you want to see continued support from me. This ensures that I am able to continue maintaining multiple libraries and tools. (And it's just nice to show off some appreciation, yknow?)
 
