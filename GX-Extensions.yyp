@@ -21,6 +21,7 @@
   "resources":[
     {"id":{"name":"GX_Cut","path":"extensions/GX_Cut/GX_Cut.yy",},},
     {"id":{"name":"GX_Recommence","path":"extensions/GX_Recommence/GX_Recommence.yy",},},
+    {"id":{"name":"GX_YYC_Fix","path":"extensions/GX_YYC_Fix/GX_YYC_Fix.yy",},},
     {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
