@@ -4,7 +4,7 @@ A collection of GX Extensions for GameMaker GX.Games target.
 These extensions have been tested thoroughly to ensure that they work on Chromium-based browsers and Firefox.
 
 ## NOTE: THIS LIBRARY IS MADE IN MY SPARE TIME
-A friendly reminder that all of my work is completely free and that you should absolutely [donate](https://ko-fi.com/tabularelf) if you want to see continued support from me.
+A friendly reminder that all of my work is completely free, and that you should absolutely [donate](https://ko-fi.com/tabularelf) if you want to see continued support from me. This ensures that I am able to continue maintaining multiple libraries and tools. (And it's just nice to show off some appreciation, yknow?)
 
 ### Note to YYG:
 YYG if you see this and wish to add it to GX.Games, please do mention where inspiration has come from. Remember those who carry and uplift the engine.
