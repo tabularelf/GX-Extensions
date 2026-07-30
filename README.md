@@ -3,9 +3,13 @@ A collection of GX Extensions for GameMaker GX.Games target.
 
 These extensions have been tested thoroughly to ensure that they work on Chromium-based browsers and Firefox.
 
+## NOTE: THIS LIBRARY IS MADE IN MY SPARE TIME
+A friendly reminder that all of my work is completely free and that you should absolutely [donate](https://ko-fi.com/tabularelf) if you want to see continued support from me.
+
+
 # How to install
 
-1. Head over to [releases](https://github.com/tabularelf/GX-Extensions/releases) and download the desired extensions.
+1. Head over to [releases](https://github.com/tabularelf/GX-Extensions/releases) and download the desired extensions yymps.
 2. In GameMaker, goto Tools -> Import Local Package and import.
 3. Follow the relevant additional steps per extension, if any.
 
